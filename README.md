@@ -159,22 +159,6 @@ CHAIN OPPORTUNITIES
 → recon → sqli: POST forms found — run sqli-fingerprinter
 ```
 
----
-
-## GitHub Info
-
-**Description:**
-```
-Modular web vuln scanner — recon→XSS→IDOR→CSRF→auth→misconfig chain, each module feeds the next
-```
-
-**Topics:**
-```
-web-security, vulnerability-scanner, xss, idor, csrf, ssrf,
-bug-bounty, penetration-testing, python, appsec, chained-attacks
-```
-
----
 
 ## License
 MIT — For authorized testing only.
