@@ -2,7 +2,7 @@
 """
 ╔══════════════════════════════════════════════════════════════╗
 ║        WEBVULN CHAIN FRAMEWORK  —  by 0xZ33                  ║
-║      github.com/Zeeshanafridai/webvuln-chain                 ║
+║      github.com/Zeeshanafridai/webvuln-chain-framework       ║
 ╚══════════════════════════════════════════════════════════════╝
 """
 
