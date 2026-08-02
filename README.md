@@ -57,8 +57,8 @@ Auth module: no rate limiting on 5 failed attempts
 ## Installation
 
 ```bash
-git clone https://github.com/yourhandle/webvuln-chain
-cd webvuln-chain
+git clone https://github.com/zeeshanafridai/WebVuln-Chain-Framework
+cd WebVuln-Chain-Framework
 python3 webvuln_chain.py --help
 ```
 
